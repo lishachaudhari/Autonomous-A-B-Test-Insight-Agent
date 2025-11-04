@@ -88,6 +88,8 @@ Example Streamlit interface — Upload CSV → Run Analysis → Get Instant AI I
 ![Dashboard Preview](assets/dashboard_preview.png)
 
 ##  🗂️ Project Structure
+<img width="395" height="219" alt="image" src="https://github.com/user-attachments/assets/e1fef218-f061-49c1-89be-5491b6db8543" />
+
 ab-test-insight-agent/
 │
 ├── app.py                   # Streamlit main dashboard
@@ -102,15 +104,8 @@ ab-test-insight-agent/
 
 ##  🌟 Future Enhancements
 
-Add Bayesian A/B testing
+- Add Bayesian A/B testing
+- Support multi-variant (A/B/n) experiments
+- Integrate experiment tracking (e.g., MLflow)
+- Add automated report generation (PDF/Markdown)
 
-Support multi-variant (A/B/n) experiments
-
-Integrate experiment tracking (e.g., MLflow)
-
-Add automated report generation (PDF/Markdown)
-
-## 👩‍💻 Author
-
-Lisha Chaudhari
-📊 Data Scientist | AI & Experimentation Enthusiast
