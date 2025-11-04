@@ -62,11 +62,13 @@ It combines **classical statistical analysis** with **Groq-based AI insights**, 
 
 ---
 ##   📊 Example Input Data
-|user_id	| variant | converted | metric_value
-|1	A	0	12.5
-|2	B	1	14.2
-|3	A	0	10.8
-|4	B	1	15.1
+
+| user_id	| variant | converted | metric_value |
+| 1 |	A |	0	| 12.5 |
+| 2 |	B |	1	| 14.2 |
+| 3 |	A |	0	| 10.8 |
+| 4 |	B |	1	| 15.1 |
+
 ## 🧠 Sample AI Output (Groq)
 
 Executive Summary: Variant B shows a statistically significant improvement in conversion (+3.1%) with a p-value of 0.02.
