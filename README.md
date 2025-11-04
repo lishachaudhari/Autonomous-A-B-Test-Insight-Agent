@@ -61,13 +61,6 @@ It combines **classical statistical analysis** with **Groq-based AI insights**, 
    streamlit run app.py
 
 ---
-##   📊 Example Input Data
-
-| user_id	| variant | converted | metric_value |
-| 1 |	A |	0	| 12.5 |
-| 2 |	B |	1	| 14.2 |
-| 3 |	A |	0	| 10.8 |
-| 4 |	B |	1	| 15.1 |
 
 ## 🧠 Sample AI Output (Groq)
 
@@ -81,6 +74,8 @@ Re-validate with a longer timeframe.
 
 Segment results by geography or traffic source.
 
+---
+
 ##  📈 Dashboard Preview
 
 Example Streamlit interface — Upload CSV → Run Analysis → Get Instant AI Insights
@@ -89,8 +84,12 @@ Example Streamlit interface — Upload CSV → Run Analysis → Get Instant AI I
 
 ![Dashboard Preview](assets/dashboard_preview.png)
 
+---
+
 ##  🗂️ Project Structure
 <img width="395" height="219" alt="image" src="https://github.com/user-attachments/assets/e1fef218-f061-49c1-89be-5491b6db8543" />
+
+---
 
 ##  🌟 Future Enhancements
 
