@@ -1,8 +1,6 @@
 # 🚀 Autonomous A/B Test Insight Agent
 
-[![Built with Streamlit](https://img.shields.io/badge/Built%20with-Streamlit-FF4B4B?logo=streamlit)](https://streamlit.io/)
-[![Powered by Groq](https://img.shields.io/badge/Powered%20by-Groq%20LLM-FF6B00?logo=groq)](https://groq.com/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
 
 ### 🧠 AI-powered A/B testing dashboard — analyze experiments, visualize insights, and get instant data-driven recommendations.
 
