@@ -36,22 +36,22 @@ An end-to-end, multi-agent AI analytics system built with **Streamlit**, **Pytho
 
 ### Installation
 
-1. Clone the repository:
-```bash
-git clone [https://github.com/your-username/autonomous-data-analysis-platform.git](https://github.com/your-username/autonomous-data-analysis-platform.git)
-cd autonomous-data-analysis-platform
-  a. Create a virtual environment and install dependencies:
+  a. Clone the repository:
+   ```bash
+     git clone [https://github.com/your-username/autonomous-data-analysis-platform.git](https://github.com/your-username/autonomous-data-      analysis-platform.git)
+     cd autonomous-data-analysis-platform```
+  b. Create a virtual environment and install dependencies:
     ```Bash
     python -m venv venv
     source venv/bin/activate  # On Windows: venv\Scripts\activate
     pip install -r requirements.txt```
 
-  b. Configure environment secrets:
+  c. Configure environment secrets:
      Create a .env file or .streamlit/secrets.toml in the project root:
       ```Ini, TOML
       GROQ_API_KEY = "your_groq_api_key_here"```
 
-  c. Run the Streamlit application:
+  d. Run the Streamlit application:
       ```Bash
       streamlit run app.py```
 
